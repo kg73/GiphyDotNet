@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>GiphyDotNet</PackageId>
+    <PackageId>GiphyDotNet.NetStandard</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
     <Authors>Drastic Actions</Authors>
     <Description>A .NET wrapper for the Giphy (http://giphy.com) API.</Description>
@@ -11,8 +11,8 @@
     <Copyright></Copyright>
     <PackageTags>giphy gif images search</PackageTags>
     <PackageLicenseUrl>http://www.opensource.org/licenses/mit-license.php</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/drasticactions/GiphyDotNet</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/drasticactions/GiphyDotNet</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/kg73/GiphyDotNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kg73/GiphyDotNet</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
